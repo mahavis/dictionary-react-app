@@ -1,4 +1,5 @@
 .Dictionary {
-  cursor: crosshair;
-  box-shadow: 5px;
+  cursor: default;
+  text-align: center;
+  margin: 0 auto;
 }
