@@ -14,7 +14,7 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Mahalakshmi and is{" "}
+            Coded by Mahalakshmi Viswanath and is{" "}
             <a href="https://github.com/mahavis/dictionary-react-app">
               open-sourced on GitHub
             </a>
